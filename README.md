@@ -6,7 +6,7 @@
 IndexedDL.web provides a sleek web interface for the IndexedDL ecosystem, enabling users to explore and download indexed datasets with ease.
 
 ## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for details.
 
 ## 🤝 Collab
 - **Contributing**: We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md).
