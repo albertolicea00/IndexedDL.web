@@ -1,6 +1,8 @@
 # >> IndexedDL.web
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/Type-PWA-5A0FC8?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 
 ## ✨ Overview
 
